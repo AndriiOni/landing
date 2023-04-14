@@ -9,7 +9,7 @@
     box-sizing: border-box;
 }
 
-.section header__section {
+.header__section {
     background-image: url(../img/background.jpg);
     min-height: 850px;
 }
